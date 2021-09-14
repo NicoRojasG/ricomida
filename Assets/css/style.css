@@ -1,0 +1,45 @@
+body{
+    font-family: Cabin;
+}
+
+.logo{
+    font-family: Lobster;
+    color: #ffffff;
+}
+.texto-header{
+    font-family: Cabin;
+    color: #373A3C;
+    font-size: 2em;
+    padding-top: 100px;
+
+}
+.bajada{
+    font-family: Cabin;
+    color: #373A3C;
+    font-size: 1em;
+
+}
+.carousel-indicators{
+    border-radius: 50%;
+
+}
+.ingredientes{
+    list-style: none;
+}
+.titulo-ingredientes{
+    font-family: Cabin;
+    color: #373A3C;
+    font-size: 1.5em;
+    text-decoration:underline;
+
+}
+.titulo-preparacion{
+    font-family: Cabin;
+    color: #373A3C;
+    font-size: 1.5em;
+    text-decoration: underline;
+
+}
+footer{
+    font-size: 2em;
+}
